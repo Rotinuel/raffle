@@ -1,3 +1,5 @@
+export const dynamic = "force-dnamic"
+
 import { connectDB } from "@/lib/db";
 import Raffle from "@/models/Raffle";
 import RaffleCard from "@/components/RaffleCard";
